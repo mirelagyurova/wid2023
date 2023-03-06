@@ -1,5 +1,5 @@
-# wid2023
-WID 2023 - Pandas for Business
+# Women in Data 2023 - Pandas for Business
+
 
 Hello and welcome to **Pandas for Business** - Introductory Training Session, as part of Women In Data Event 2023.
 
