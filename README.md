@@ -3,7 +3,7 @@
 
 Hello and welcome to **Pandas for Business** - Introductory Training Session, as part of Women In Data Event 2023.
 
-Please follow the instructions below **ahead** of the session on 09/03/2023, if you would like to follow along during the training:
+Please follow the instructions below **ahead** of the session on 2023-03-09, if you would like to follow along during the training:
 - The **wid2023** public repository contains all documentation and materials covered in the training:
 	- **wid_pre_requisites.pdf** is a PDF file with detailed guidance on how to install Python, Pandas and Jupyter Notebooks. This will be essential if you want to execute the demonstrated code during training
 	- **insurance.csv** is the CSV file containing the dataset, with which we will be working throughout the session. Please download this file and place it in a **pandas_for_business** folder somewhere on your C-drive
