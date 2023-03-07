@@ -1,5 +1,7 @@
 # Women in Data 2023 - Pandas for Business
 
+![](./header.jpg)
+
 
 Hello and welcome to **Pandas for Business** - Introductory Training Session, as part of Women In Data Event 2023.
 
